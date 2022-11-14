@@ -15,6 +15,14 @@ https://velog.io/@hosunghan0821/Spring-DI-Dependency-Injection
 9일 : [Spring] AOP (Aspect Oriented Programming)<br>
 https://velog.io/@hosunghan0821/Spring-AOP-Aspect-Oriented-Programming
 <br>
-10일 : [알고리즘] [알고리즘] DFS,BFS (1)<br>
+10일 : [알고리즘] DFS,BFS (1)<br>
 https://velog.io/@hosunghan0821/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-DFSBFS
 <br>
+14일 : 
+- [알고리즘] DFS,BFS (2)<br>
+https://velog.io/@hosunghan0821/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-DFSBFS-2<br>
+- [Spring] maven & gradle<br> 
+https://velog.io/@hosunghan0821/Spring-maven-gradle
+<br>
+
+15일 : 
