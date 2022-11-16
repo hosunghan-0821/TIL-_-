@@ -25,4 +25,5 @@ https://velog.io/@hosunghan0821/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-DFSBFS-2<br
 https://velog.io/@hosunghan0821/Spring-maven-gradle
 <br>
 
-15일 : 
+16일 : [Spring] Spring Security 동작원리 (1) <br>
+https://velog.io/@hosunghan0821/Spring-Spring-Security-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC<br>
