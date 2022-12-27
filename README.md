@@ -50,3 +50,6 @@ https://velog.io/@hosunghan0821/%EB%A9%B4%EC%A0%91%ED%9A%8C%EA%B3%A0-%EC%B2%AB-%
 https://velog.io/@hosunghan0821/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Java%EC%97%90%EC%84%9C%EC%9D%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1
 - [DB] DataBase 기본 용어 정리 (1) <br>
 https://velog.io/@hosunghan0821/DB-DataBase-%EA%B8%B0%EB%B3%B8-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC
+
+27일 :[DB] Relational Data Model<BR>
+https://velog.io/@hosunghan0821/DB-Relational-Data-Model
