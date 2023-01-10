@@ -53,3 +53,9 @@ https://velog.io/@hosunghan0821/DB-DataBase-%EA%B8%B0%EB%B3%B8-%EC%9A%A9%EC%96%B
 
 27일 :[DB] Relational Data Model<BR>
 https://velog.io/@hosunghan0821/DB-Relational-Data-Model
+
+## **2023 01**
+
+10일 : [Web] GraphQL<BR>
+https://velog.io/@hosunghan0821/Web-GraphQL
+
