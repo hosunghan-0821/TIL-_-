@@ -59,3 +59,5 @@ https://velog.io/@hosunghan0821/DB-Relational-Data-Model
 10일 : [Web] GraphQL<BR>
 https://velog.io/@hosunghan0821/Web-GraphQL
 
+12일 : [JPA] Entity Manager & Persistence Context<BR>
+https://velog.io/@hosunghan0821/JPA-Entity-Manager-Persistene-Context
